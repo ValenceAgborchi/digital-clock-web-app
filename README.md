@@ -25,4 +25,4 @@ This is my **first ever web development project**. Its a simple responsive digit
 
 
 ## How to View
-Open 'index.html' in your browser.
+Open ['index.html'](http://127.0.0.1:3000/index.html) in your browser.
