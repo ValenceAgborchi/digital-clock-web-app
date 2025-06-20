@@ -21,6 +21,7 @@ This is my **first ever web development project**. Its a simple responsive digit
 -JavaScript
 
 ## Screenshot
+![screenshot of Digital Clock](Screenshot.digitalclock.png)
 
 
 ## How to View
