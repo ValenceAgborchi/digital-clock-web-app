@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+    margin: 0px;
+}
+
+#clock-container{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 100vh;
+    
+    
+
+}
+#clock{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 7rem;
+    font-weight: bold;
+    text-align: center;
+    
+}
